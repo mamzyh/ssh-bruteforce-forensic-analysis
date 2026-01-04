@@ -1,0 +1,7 @@
+2025-11-21 10:00:00 user=alice ip=192.168.1.10 event=LOGIN_SUCCESS
+2025-11-21 10:01:00 user=alice ip=203.0.113.45 event=LOGIN_FAILED
+2025-11-21 10:01:05 user=alice ip=203.0.113.45 event=LOGIN_FAILED
+2025-11-21 10:01:10 user=alice ip=203.0.113.45 event=LOGIN_FAILED
+2025-11-21 10:01:15 user=alice ip=203.0.113.45 event=LOGIN_FAILED
+2025-11-21 10:01:20 user=alice ip=203.0.113.45 event=LOGIN_FAILED
+2025-11-21 10:01:25 user=alice ip=203.0.113.45 event=LOGIN_FAILED
