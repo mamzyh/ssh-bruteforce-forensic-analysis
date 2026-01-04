@@ -1,0 +1,3 @@
+This project is a digital forensics mini-SIEM tool designed to detect SSH brute-force attacks through authentication log analysis. It follows a complete forensic workflow, from evidence acquisition and imaging to automated analysis and validation.
+
+An Ubuntu ARM virtual machine was used to generate and collect SSH logs, which were preserved in a forensically sound E01 image using Guymager. The extracted logs are analysed using a custom Python backend built with FastAPI, while a Streamlit frontend provides an easy-to-use interface for uploading logs and viewing results. Splunk was used as a benchmark to validate the accuracy of the findings.
